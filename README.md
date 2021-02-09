@@ -1,5 +1,6 @@
 # CSFpy
-The various of  human Contrast Sensivity Function (CSF) models  
+
+###The various of  human Contrast Sensivity Function (CSF) models  
 
 #### If you think this project can help you or you can use something from this project then please consider cite below papers: 
 
@@ -43,5 +44,15 @@ doi = {10.1113/jphysiol.1985.sp015591}
 }
 ```
 
-#### If you have any question, please contact me.
 
+```
+@inproceedings{Daly1992TheVD,
+  title={The visible difference predictor: An algorithm for the assessment of image fidelity},
+  author={S. Daly},
+  year={1992}
+}
+```
+
+[Barten CSF in (1999)](https://pure.tue.nl/ws/files/1613279/9901043.pdf)
+
+#### If you have any questions, please contact me.

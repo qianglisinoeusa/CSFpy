@@ -53,6 +53,17 @@ doi = {10.1113/jphysiol.1985.sp015591}
 }
 ```
 
+```
+@misc{li2021hvsoriented,
+      title={An HVS-Oriented Saliency Map Prediction Model}, 
+      author={Qiang Li},
+      year={2021},
+      eprint={2011.04076},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
 [Barten CSF in (1999)](https://pure.tue.nl/ws/files/1613279/9901043.pdf)
 
 #### If you have any questions, please contact me.

@@ -57,7 +57,7 @@ doi = {10.1113/jphysiol.1985.sp015591}
 
 ```
 @misc{li2021hvsoriented,
-      title={An HVS-Oriented Saliency Map Prediction Model}, 
+      title={A Psychophysical Oriented Saliency Map Prediction Model}, 
       author={Qiang Li},
       year={2021},
       eprint={2011.04076},

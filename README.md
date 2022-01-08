@@ -2,16 +2,11 @@
 
 ### The various of  human Contrast Sensivity Function (CSF) models  
   
-  ![CSFs](SSOCSF.png)
-
   ![CSFs](CSF_Models.jpg)
-
+  ![CSFs](SSOCSF.png)
   ![CSFs](CSF1.png)
-
   ![CSFs](CSF2.png)
-
   ![CSFs](CSF3.png)
-
   ![CSFs](CSF4.png)
   
 

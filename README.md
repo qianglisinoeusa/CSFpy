@@ -1,6 +1,6 @@
 # CSFpy
 
-### The various of  human Contrast Sensivity Function (CSF) models  
+### The various of Contrast Sensivity Function (CSF) models  
   
   ![CSFs](CSF_Models.jpg)
   ![CSFs](SSOCSF.png)

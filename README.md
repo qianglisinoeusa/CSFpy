@@ -62,13 +62,13 @@ doi = {10.1113/jphysiol.1985.sp015591}
 ```
 
 ```
-@misc{li2021hvsoriented,
-      title={A Psychophysical Oriented Saliency Map Prediction Model}, 
-      author={Qiang Li},
-      year={2021},
-      eprint={2011.04076},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{QiangLI20,
+author = {Li, Qiang},
+year = {2023},
+month = {05},
+title = {Saliency prediction based on multi-channel models of visual processing},
+volume = {34},
+journal = {Machine Vision and Applications}
 }
 ```
 
